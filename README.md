@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**iasibanessaj/iasibanessaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 # Solitario amigo de pocos, maravillado de la tencnología, buscando intregrarme y aportar a ella.
@@ -15,4 +13,4 @@
 - 📫 
 - 😄 
 - ⚡ 
--->
+
